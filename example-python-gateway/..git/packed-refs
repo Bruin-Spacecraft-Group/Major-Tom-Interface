@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+6c692c57dab97fa123ef27d04701c9761443d3ed refs/remotes/origin/404-recovery
+6a43897ab617ff956005f8169c1d1cd265c3d762 refs/remotes/origin/master
+eb237179ef6acd0cbe5de961bd6b68da1c072464 refs/remotes/origin/overhaul-example
+3bf6185893b9a75dc77e957f122b5a273b2c4393 refs/remotes/origin/ropes/boolean-field
